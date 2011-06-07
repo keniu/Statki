@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package gameships;
 
 import java.util.Random;
@@ -77,7 +72,7 @@ public class ShipsComputerAi {
   
 
 
-void SaveHit(int x,int y,int statek)  /// Pozniej dodam.
+void SaveHit(int x,int y,int statek)  /// Pozniej dodam. 
 {
 
 }
